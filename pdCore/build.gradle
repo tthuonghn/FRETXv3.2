@@ -1,0 +1,62 @@
+apply plugin: 'com.android.library'
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.1.2'
+
+    defaultConfig {
+        //applicationId "org.puredata.android.service"
+        ndk {
+            moduleName "app"
+            stl "stlport_static"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/main', 'jni/libpd/java']
+            resources.srcDirs = ['src/main', 'jni/libpd/java']
+            aidl.srcDirs = ['src/main', 'jni/libpd/java']
+            renderscript.srcDirs = ['src/main', 'jni/libpd/java']
+
+            // ** this is what was missing **
+            jniLibs.srcDirs = ['src/main', 'libs']
+
+            res.srcDirs = ['src/main/res']
+        }
+    }
+
+    productFlavors {
+        x86 {
+            ndk {
+                abiFilter "x86"
+            }
+        }
+        mips {
+            ndk {
+                abiFilter "mips"
+            }
+        }
+        armv7 {
+            ndk {
+                abiFilter "armeabi-v7a"
+            }
+        }
+        arm {
+            ndk {
+                abiFilter "armeabi"
+            }
+        }
+        fat
+    }
+}
+
+dependencies {
+}

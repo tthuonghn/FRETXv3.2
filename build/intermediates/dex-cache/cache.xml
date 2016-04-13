@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/google-oauth-client-jetty-1.16.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="51082d2052595070c61ad229aa166670fe02598a">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/google-oauth-client-jetty-1.16.0-rc_8207de338760ad67638cf61fb6e075c1bdaf73c3.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/google-api-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/google-api-client-1.20.0_0bf91de39cb8eef0a38577ad1cafec610ff87294.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.1.1_06c6f50de1b1bbab110ab94f368ce7a18d9539cf.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4548682baf5832064d7ba9c90356ccbfe1640cc9">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/org.puredata.android-pd-core-1.0.1_9e30d38309205309009dc4f98a3f1b5934e4bd58.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/additionnal.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/additionnal_3e4dbe280a1325fa8550db6d3366b05ea3bae1a0.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/google-oauth-client-1.16.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e0f006ada6da03657ab8cc871f90de8eeab37e14">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/google-oauth-client-1.16.0-rc_ff935d752153940351f5915a535a842bc43ca57b.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.1.1_8f4eda5b232dbe337b44c71c67a0e804a92007d9.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/ypylibs.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a810862bb1657c7f890e24f12268ecd210ad62dc">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/ypylibs_e8213c3d90589e00de05347d4d0ecf43900e672d.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-android-sdk-4.6.0_db5c3fe4446e9186939a3523e91d56ffeab8b965.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/google-api-client-servlet-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bf6356592e9d127056404cc927ede6f3044e68fb">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/google-api-client-servlet-1.20.0_2ecdf619a16a79a8fafcee74ff16e1e686fd7a6d.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/aws-android-sdk-cognito-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9603a4ca9f0eedbca41ea1a371e5d76d447fbc56">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/aws-android-sdk-cognito-2.2.13_3bc3ceb9465b332a42957b2c516f54a5c54e5034.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/jtransforms-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e52124b670340d47844a734e36765c3bc11b7f3">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/jtransforms-2.4_929413ffda3d3cd1f2165e1e705a1dc77fe3a4a2.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/google-oauth-client-java6-1.16.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6b96c0bde14c8256b047f97d0b3aca58ad91cd6d">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/google-oauth-client-java6-1.16.0-rc_057f5ab83b8e4507e73001dbadd1bb9ac21f5359.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/activation.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/activation_b0c3cd637b8785dccb41f1cef6231b7dc7e42cd6.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/aws-android-sdk-s3-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88aedffb7bb0474b63d5a77b5e94e4cf653b848a">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/aws-android-sdk-s3-2.2.13_d14de23a915dd349bebf8ae2a2b9cd838716eb7e.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.1.1_2b6a725ac2e1180d209e6a55043f53e1ffc0f16f.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/com.fasterxml.jackson.core.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6575afa4a9b3dc94dec2fa6082847e6987de651c">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/com.fasterxml.jackson.core_601ca322db199e3b09b313367f5cedea23065d51.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/com.noisepages.nettoyeur-midi-1.0.0-rc1_e0ca2478fee416353c22773685dece023f66dc97.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/google-api-client-extensions-1.6.0-beta.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb2794578fbed437afc8880f4acb78d38b982bad">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/google-api-client-extensions-1.6.0-beta_b621a574940b499bc20f3c0e033b8a45b44d8d00.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/exploded-aar/FRETXv3/circleimageview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4cdf9d34f2004c56c736dc44efb3a28e46d921ab">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/FRETXv3-circleimageview-unspecified_1bc0a4e5fbacbae720984cfb86a4332c3af20de0.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/aws-android-sdk-core-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de0d856f2bc4cba9e9e8c348e267f22910a3c779">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/aws-android-sdk-core-2.2.13_a472e74ce20bcce42ca19a86f87a3bddb1f88a72.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/com.android.support-design-23.1.1_3440136b37d87d22d931f9695aacb2e647424600.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/poi-3.7-beta1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="79df8ada819115ec84c5b1fb44ad11e371daafee">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/poi-3.7-beta1_a6a21e9f9df4273bb217922a503a12b848296843.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/mail.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/mail_fee5fdfb77acd7cf6bbfbecf950c1629d01e31d8.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1_1d15affe2eef0015aef4c88b4bc7adebf38e915c.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/YouTubeAndroidPlayerApi_ce81f72ef9f3f9e0acc5c445b1b519c08324a099.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/google-api-services-youtube-v3-rev68-1.16.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="06157d1a5f6f604a6f4363988252d0c697fa1e6f">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/google-api-services-youtube-v3-rev68-1.16.0-rc_d5ac7642e416bbe69b5295c1db584032b5897e23.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_e68a8913a0c42be9eefd8d9c0704767b6e660d63.jar" />
+    </item>
+    <item
+        jar="/Users/tran/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/bolts-android-1.2.0_30ed57322e0dee3c99c31fdcf201a877347bbf82.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/google-http-client-1.20.0_0f6ef0f26c59b1529ca6a478e01a3088f4078309.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/google-http-client-jackson2-1.16.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ee1018f19d8fb8c775b603bc40588d637fce886e">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/google-http-client-jackson2-1.16.0-rc_f2b216417ed172a8b34094644746e5db424f7513.jar" />
+    </item>
+    <item
+        jar="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/tran/Desktop/Projects/Fretx/Program/FRETXv3.3_Src/FRETXv3/app/build/intermediates/pre-dexed/release/universal-image-loader-1.9.3_a19c70de9ba622b4821f447094b9ce7c032185be.jar" />
+    </item>
+
+</items>
